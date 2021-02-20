@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad Ali</h1>
 <h3 align="center">I am a Full-Stack (MERN) Web Developer.</h3>
 
-- 🔭 I’m currently working on [Educational web app](https://github.com/Hammadsoloman/edusavior-frontEnd)
+- 🔭 I’m currently working on React(with redux-hooks-query-apollo) + Node +Express + MongoDB
 
 - 💬 Ask me about **node,react**
 
